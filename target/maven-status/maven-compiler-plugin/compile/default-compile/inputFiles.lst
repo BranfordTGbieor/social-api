@@ -1,0 +1,12 @@
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/Application.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/user/UserRepository.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/controller/UserController.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/exceptions/UserNotFoundException.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/controller/UserJPAController.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/config/SwaggerConfig.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/exceptions/ExceptionResponse.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/post/Post.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/controller/WelcomeController.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/user/User.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/exceptions/CustomizedResponseEntityExceptionHandler.java
+/home/taylie/projects/active_projects/rest-services-demo/src/main/java/com/taylietech/user/UserDAO.java

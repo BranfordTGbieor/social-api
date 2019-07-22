@@ -1,0 +1,7 @@
+*.classpath
+*.attach_pid24848
+*.project
+*.springBeans
+
+.settings/
+
