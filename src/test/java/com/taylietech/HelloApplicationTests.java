@@ -1,4 +1,4 @@
-package com.neo;
+package com.taylietech;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
